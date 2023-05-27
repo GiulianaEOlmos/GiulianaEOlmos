@@ -8,6 +8,6 @@ I work as senior Backend Engineer with +4 years of professional experience speci
 
 Skills: Javascript | Typescript | NodeJS | React | GCP | AWS | Firebase | Firestore | Serverless Framework
 
-[![My old Github Account](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://github.com/GiulianaOlmos))
-[![My LinkedIn](https://skillicons.dev/icons?i=github)]([https://www.linkedin.com/in/giulianaevangelinaolmos](https://www.linkedin.com/in/giulianaevangelinaolmos))
-[![My Twitter](https://skillicons.dev/icons?i=twitter)]([https://twitter.com/GiulianaEOlmos](https://twitter.com/GiulianaEOlmos))
+[![My old Github Account](https://skillicons.dev/icons?i=linkedin)](https://github.com/GiulianaOlmos)
+[![My LinkedIn](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/giulianaevangelinaolmos)
+[![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/GiulianaEOlmos)
