@@ -11,3 +11,4 @@ Skills: Javascript | Typescript | NodeJS | React | GCP | AWS | Firebase | Firest
 [![My old Github Account](https://skillicons.dev/icons?i=github)](https://github.com/GiulianaOlmos)
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giulianaolmos/)
 [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/GiulianaEOlmos)
+[![My DevTo](https://skillicons.dev/icons?i=devto)](https://dev.to/giulianaolmos)
