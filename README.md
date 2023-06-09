@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Giuliana Olmos.
 #### Senior Backend Engineer
 
-<img src='https://i.ibb.co/hWPFJvb/giuli2.png' alt='linkedin' height='200' >
+<img src='https://i.ibb.co/1LQPzY9/giuli2.png' alt='linkedin' height='200' >
 
 I work as senior Backend Engineer with +4 years of professional experience specializing in high-quality, scalable, and efficient solutions using JavaScript, TypeScript, Node.js, Firebase, Serverless, and leveraging cloud platforms such as AWS and GCP.
 
