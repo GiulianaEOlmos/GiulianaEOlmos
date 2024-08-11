@@ -6,7 +6,7 @@
 
 (Ilustration by <a href='https://www.instagram.com/holadelf/'>@holadelf</a>)
 
-Senior Backend Engineer with 5 years of professional experience specializing in high-quality, scalable, and efficient solutions using JavaScript, TypeScript, Node.js, Firebase, Serverless, and leveraging cloud platforms such as AWS and GCP.
+Senior Backend Engineer with +5 years of professional experience specializing in high-quality, scalable, and efficient solutions using JavaScript, TypeScript, Node.js, Firebase, Serverless, and leveraging cloud platforms such as AWS and GCP.
 
 - Distributed Teams (cross-functional team): I have experience working in dynamic early-stage startup environments, I directly collaborated with both the CEO and manager in a New York-based company. Currently, I am part of a diverse team consisting of talented professionals from the USA and Canada.
 
